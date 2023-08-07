@@ -1,136 +1,72 @@
 ---
 layout: default
 ---
-# iii
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+This is Faris's Portofolio & Finished Project Summary
 
-# kkk
-Test Fariszuh
+Connect with me on
 
-[//]: Text can be **bold**, _italic_, or ~~strikethrough~~.
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="15"> /muhammad-faris-zuhairi](https://www.linkedin.com/in/muhammad-faris-zuhairi/)
 
-[Link to another page](./another-page.html).
+[<img src="https://icon-library.com/images/instagram-small-icon/instagram-small-icon-12.jpg" height="15"> /faris.zuh](https://www.instagram.com/faris.zuh)
 
-There should be whitespace between paragraphs.
+[<img src="https://cdn-icons-png.flaticon.com/256/25/25231.png" height=15> /fariszuh](https://github.com/fariszuh)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Student Creativity Program by Kemdikbudristek
+The Student Creativity Program (Program Kreativitas Mahasiswa/PKM) is a program of the Directorate General of Higher Education which was launched since 2001. 
+PKM is a forum for students to study, explore and apply the knowledge they have learned in lectures to the wider community. 
+In this program, my team getting funding and conducted research with lecture assitance. Here is my research:
 
-# Working Experience
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+1. Anargya Formula EV Mark 2.0 Safety Optimization on Brake System Plausibility Device and Shutdown Circuit
 
-# Education
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+   (PKM Artikel Ilmiah - 2021) Supervisor: Dr.Yohanes, MSc 
 
-# Organization
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+   [Report](https://drive.google.com/file/d/1PhQYCqx3cNga5Bwk_2d478ZDWCQRFaYB/view?usp=sharing)
 
-# Event & Volunteering
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+2. Burung Otomatis Minggat : Automatic Bird Repellent using Photovotaic 
 
-## Header 2
+    (PKM Penerapan Iptek - 2021) Supervisor: Heri Suryoatmojo, MT, PhD 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+   [Report](https://drive.google.com/file/d/15jkfmGeAhg7mg9Sp4R30zkXuUmjkQNLm/view?usp=sharing)
+   
+3. Wireless Data Actuisition for Evaluating Concrete’s Heat of Hydration at Early Age
 
-### Header 3
+   (PKM Karsa Cipta - 2022) Supervisor: Faimun, MSc, PhD.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+   [Report](https://drive.google.com/file/d/1brUnFBLFZpmZgZQtYiCr3HEU-Bk7r-g5/view?usp=sharing)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+4. EV Battery’s Thermal Runaway Prediction with Data Actuision for Improving Driving Safety
 
-#### Header 4
+    (PKM Karsa Cipta - 2022) Supervisor: Dr. Purwadi Agus Darwito, MSc
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+   [Report](https://drive.google.com/file/d/1ePBxKaZzkfORwJIkUyPjxptszIlHnDDB/view?usp=sharing)
 
-##### Header 5
+### Control & Automation Lab
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+5. Egg Incubator using Embedded Temperature PID Controller and IoT (2022) [Report](https://drive.google.com/file/d/1-dwvOXYnXfp4yo8YYwyItHiJ5cvomVyj/view?usp=sharing)
 
-###### Header 6
+6. Terco Motor & PLC Labwork Module for Basic Control System Practicum (2021-2022)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+7. Bina Insani Vocational High School Pick and Place Module Including Ladder Program, Electrical Drawings, and Wiring (2023)
 
-### There's a horizontal rule below this.
+### Anargya EV Research
+Our team getting fund support from university and sponsorship: PT.PJB, ABC Lithium, Toyota Indonesia, PT.INKA, etc.
+I am responsible for handle Electro-Programming & Safety System Division task:
+1. Safety System:
 
-* * *
+   <img src=img_5.png height=150>
+   
+   Analog Board (Shutdown Circuit, Break System Plausibility Device, Insulation Monitoring Device)
 
-### Here is an unordered list:
+   ![img_8.png](img_8.png)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+3. Powering Device: designing power distribution module for our low voltage battery 14s3p (NMC 3.6V, 3.5Ah each)
+![img_7.png](img_7.png)
+4. Auxilliaries:
 
-### And an ordered list:
+5. Wiring:
+    
+   <img src=img_6.png height=150>
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+6. Enclosure: 
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+   
