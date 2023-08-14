@@ -42,31 +42,53 @@ In this program, my team getting funding and conducted research with lecture ass
 
 ### Control & Automation Lab
 
-5. Egg Incubator using Embedded Temperature PID Controller and IoT (2022) [Report](https://drive.google.com/file/d/1-dwvOXYnXfp4yo8YYwyItHiJ5cvomVyj/view?usp=sharing)
+5. Egg Incubator using Embedded Temperature PID Controller and IoT (2022) 
+
+   [Report](https://drive.google.com/file/d/1-dwvOXYnXfp4yo8YYwyItHiJ5cvomVyj/view?usp=sharing)
+   
+   <img src="img_10.png" height="150">
+   <img src="img_11.png" height="150">
+   <img src="img_12.png" height="150">
 
 6. Terco Motor & PLC Labwork Module for Basic Control System Practicum (2021-2022)
+   <img src="Portofolio/LKO Modul DSP.jpg" height="150">
+   ![img_13.png](img_13.png)
 
 7. Bina Insani Vocational High School Pick and Place Module Including Ladder Program, Electrical Drawings, and Wiring (2023)
+
+   <img src="img_9.png" height="150">
+   <img src="Portofolio/SKUBI Serah Terima.jpg" height="150">
+   
+   [Video Pengujian](https://youtu.be/rrkpYw3nQpU?si=PWYrqeH3i1iGD9lV)
 
 ### Anargya EV Research
 Our team getting fund support from university and sponsorship: PT.PJB, ABC Lithium, Toyota Indonesia, PT.INKA, etc.
 I am responsible for handle Electro-Programming & Safety System Division task:
 1. Safety System:
-
-   <img src=img_5.png height=150>
    
-   Analog Board (Shutdown Circuit, Break System Plausibility Device, Insulation Monitoring Device)
+   * Analog Board (Shutdown Circuit, Break System Plausibility Device, Insulation Monitoring Device)
+      <img src=img_5.png height=150>
+   * Accelerator Pedal Position Board
+   <img src="img_8.png" height="150">
+   * Monitoring Board
+   <img src="">
+ 
+2. Powering Device: designing power distribution module for our low voltage battery 4s13p (NMC 3.6V, 3.5Ah each)
+   
+   <img src="img_7.png" height="150">
 
-   ![img_8.png](img_8.png)
-
-3. Powering Device: designing power distribution module for our low voltage battery 14s3p (NMC 3.6V, 3.5Ah each)
-![img_7.png](img_7.png)
-4. Auxilliaries:
-
-5. Wiring:
-    
+3. Wiring:
+    Designed Wire Route for Implementation with RapidHarness.
    <img src=img_6.png height=150>
+4. Battery Management System
+   This project is initial research in self-built Anargya's BMS. I participated on designing circuit and PCB with feature:
+   passive balancing and battery temperature sensor.
 
-6. Enclosure: 
+### Bangkit 2022 Machine Learning Specialization
+[Report](https://docs.google.com/presentation/d/1r7WTBCHRCI2BNKevAhDl_rngdYhQRUjK/edit?usp=sharing&ouid=106161345376668057829&rtpof=true&sd=true)
 
-   
+### Wiksa Daya Pratama SPBKLU
+Rekacipta Stasiun Penukaran Baterai Kendaraan Listrik Umum (SPBKLU)
+untuk Percepatan Pemakaian Sepeda Motor Listrik GESITS di Indonesia
+![img_14.png](img_14.png)
+[Report](https://drive.google.com/file/d/1NYKLdQfIwY2d2VdwtecfcgcjT2Cf7ffJ/view?usp=sharing)
