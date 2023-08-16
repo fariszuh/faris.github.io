@@ -52,7 +52,7 @@ In this program, my team getting funding and conducted research with lecture ass
 
 6. Terco Motor & PLC Labwork Module for Basic Control System Practicum (2021-2022)
    <img src="Portofolio/LKO Modul DSP.jpg" height="150">
-   ![img_13.png](img_13.png)
+   <img src="img_13.png" height="150">
 
 7. Bina Insani Vocational High School Pick and Place Module Including Ladder Program, Electrical Drawings, and Wiring (2023)
 
@@ -72,7 +72,7 @@ I am responsible for handle Electro-Programming & Safety System Division task:
      
    * Accelerator Pedal Position Board
    
-   <img src="img_8.png" height="150">
+      <img src="img_8.png" height="150">
 
  
 2. Powering Device: designing power distribution module for our low voltage battery 4s13p (NMC 3.6V, 3.5Ah each)
