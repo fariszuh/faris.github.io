@@ -51,6 +51,7 @@ In this program, my team getting funding and conducted research with lecture ass
    <img src="img_12.png" height="150">
 
 6. Terco Motor & PLC Labwork Module for Basic Control System Practicum (2021-2022)
+
    <img src="Portofolio/LKO Modul DSP.jpg" height="150">
    <img src="img_13.png" height="150">
 
