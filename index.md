@@ -67,20 +67,24 @@ I am responsible for handle Electro-Programming & Safety System Division task:
 1. Safety System:
    
    * Analog Board (Shutdown Circuit, Break System Plausibility Device, Insulation Monitoring Device)
+     
       <img src=img_5.png height=150>
+     
    * Accelerator Pedal Position Board
+   
    <img src="img_8.png" height="150">
-   * Monitoring Board
-   <img src="">
+
  
 2. Powering Device: designing power distribution module for our low voltage battery 4s13p (NMC 3.6V, 3.5Ah each)
    
    <img src="img_7.png" height="150">
 
 3. Wiring:
-    Designed Wire Route for Implementation with RapidHarness.
+
+   Designed Wire Route for Implementation with RapidHarness.
    <img src=img_6.png height=150>
-4. Battery Management System
+
+5. Battery Management System
    This project is initial research in self-built Anargya's BMS. I participated on designing circuit and PCB with feature:
    passive balancing and battery temperature sensor.
 
@@ -90,5 +94,7 @@ I am responsible for handle Electro-Programming & Safety System Division task:
 ### Wiksa Daya Pratama SPBKLU
 Rekacipta Stasiun Penukaran Baterai Kendaraan Listrik Umum (SPBKLU)
 untuk Percepatan Pemakaian Sepeda Motor Listrik GESITS di Indonesia
-![img_14.png](img_14.png)
+
+   <img src="img_14.png" height="150">
+
 [Report](https://drive.google.com/file/d/1NYKLdQfIwY2d2VdwtecfcgcjT2Cf7ffJ/view?usp=sharing)
