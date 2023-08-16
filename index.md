@@ -82,9 +82,10 @@ I am responsible for handle Electro-Programming & Safety System Division task:
 3. Wiring:
 
    Designed Wire Route for Implementation with RapidHarness.
+
    <img src=img_6.png height=150>
 
-5. Battery Management System
+4. Battery Management System
    This project is initial research in self-built Anargya's BMS. I participated on designing circuit and PCB with feature:
    passive balancing and battery temperature sensor.
 
@@ -95,6 +96,6 @@ I am responsible for handle Electro-Programming & Safety System Division task:
 Rekacipta Stasiun Penukaran Baterai Kendaraan Listrik Umum (SPBKLU)
 untuk Percepatan Pemakaian Sepeda Motor Listrik GESITS di Indonesia
 
-   <img src="img_14.png" height="150">
+<img src="img_14.png" height="150">
 
 [Report](https://drive.google.com/file/d/1NYKLdQfIwY2d2VdwtecfcgcjT2Cf7ffJ/view?usp=sharing)
